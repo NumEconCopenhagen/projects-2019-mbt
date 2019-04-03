@@ -4,6 +4,14 @@ The dataproject is an insight into the extent of tourism in Denmark. Statistics 
 
 For the analysis and datahandling, a bunch of different packages and a shape-file for the administrational borders in Denmark is used. Everything is documented in the Jupyter Notebook. The shapefile (.shp) is also uploaded in the repository in the folder "Geofiles".
 
+Following packages is required to run the code:
+
+- conda install -c conda-forge geopandas (since it is conda, it might take some time)
+- pip install -U statsmodels
+- pip install pydst
+
+Other packages used in the lectures is expected to be installed by the reader.
+
 Happy reading!
 
 /MBT
