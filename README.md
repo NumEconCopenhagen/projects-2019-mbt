@@ -15,7 +15,7 @@ The data project is an insight into the extent of tourism in Denmark. Statistics
 
 For the analysis and data handling, a bunch of different packages and a shape-file for the administrational borders in Denmark is used. Everything is documented in the Jupyter Notebook. The shapefile (.shp) is also uploaded in the repository in the folder "Geofiles".
 
-The **results** of the project can be seen from running [dataproject.ipynb](dataproject.ipynb).
+The **results** of the project can be seen from running [/dataproject.ipynb](/dataproject.ipynb).
 
 **Dependencies:** Following packages is required to run the code:
 
@@ -34,7 +34,7 @@ Imaging the classic everyday first world problem. You are on your way to a tropi
 
 The project will solve the standard Robinson Crusoe economy by finding the pareto efficient allocation between two goods in order to optimize the utility of the agent. After the model is optimized, the model will be extened by looking at comparative advantages. Instead of just including an extra agent in the model, a completely new model is presented in order to show how the comparative advantage work in general. 
 
-The **results** of the project can be seen from running [modelproject.ipynb](modelproject.ipynb).
+The **results** of the project can be seen from running [/modelproject.ipynb](/modelproject.ipynb).
 
 **Dependencies:** All packages used for the project should be part of the standard anaconda installation.
 
