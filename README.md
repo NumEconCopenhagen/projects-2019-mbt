@@ -1,12 +1,12 @@
 # Welcome to MBT's course repository
 
-This is the repository for the group MBT.
+This is the repository for the group *MBT*. 
 
 The repository contains the following folders:
 
-/dataproject: The data analysis project.
-/modelproject: The model analysis project.
-/examproject: The exam project.
+* [/dataproject](/dataproject): The data analysis project.
+* [/modelproject](/modelproject): The model analysis project.
+* [/examproject](/examproject): The exam project (currently empty).
 
 ## Data analysis project
 ### Tourism in Denmark
