@@ -1,6 +1,7 @@
-# MBT's exam repository
+# MBT's course repository
+The README contains small summaries of the two projects and the final exam project. Some new packages are required in order to run the data project, so it is important to look through it before running the project.
 
-## Dataproject
+## Data project
 ### Tourism in Denmark
 
 The data project is an insight into the extent of tourism in Denmark. Statistics Denmark has records of have many foreigners, who spend the night in one of Denmark’s many hotels, camping sites etc. The observations are monthly data from 2014-2018, broken down by the nationality of the tourists and which region in Denmark they staying overnight. First the evolution of the level of tourism is examined and then the seasonal effects are extracted. Finally, the characteristics of the visiting tourists is closely studied. The interesting questions are who is visiting Denmark, and where do they live?
@@ -17,7 +18,7 @@ Other packages used in the lectures is expected to be installed by the reader.
 
 Happy reading!
 
-## Modelproject
+## Model project
 ### The Koopman model - Robinson Crusoe economy
 ##### What is the Robinson Crusoe economy?
 
