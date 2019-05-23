@@ -6,7 +6,7 @@ The repository contains the following folders:
 
 * [/dataproject](/dataproject): The data analysis project.
 * [/modelproject](/modelproject): The model analysis project.
-* [/examproject](/examproject): The exam project (currently empty).
+* [/examproject](/examproject): The exam project.
 
 ## Data analysis project
 ### Tourism in Denmark
@@ -23,7 +23,6 @@ Following packages is required to run the code:
 
 Other packages used in the lectures is expected to be installed by the reader.
 
-Happy reading!
 
 ## Model analysis project
 ### The Koopman model - Robinson Crusoe economy
