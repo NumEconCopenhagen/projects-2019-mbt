@@ -1,12 +1,12 @@
 # Welcome to your NumEconCPH repository
 
-We have provided you with the following repository that contains the required structure for this course. **You should not change any folders in the root directory**.
+## The Koopman model - Robinson Crusoe economy
+#### What is the Robinson Crusoe economy?
 
-A short description of the files and folders:
+Imaging the classic everyday first world problem. You are on your way to a tropical paradise for the holidays, but on the way your plane crashes and leaves you stranded on a deserted island. As a human being, you have to eat in order to survive and the island only has two kinds of food supplies. You can either use your time on fishing or pick bananas. Each activity consumes time of the day, which you would rather spend on relaxation/leisure (since this technically is your holiday). As a rational utility optimizing individual with understanding of economic efficient decision making, you now have to decide how to allocate your time in order to achieve the maximum amount of utility (remeber it is you holiday, so you should get the most out of it).
 
-* [README.md](/README.md): gives a short introduction to your project. You should change this file so it gives an introduction to what your repository consists of, and how to run the code to get your output. The present README file is always present on [github](https://www.github.com/numeconcopenhagen/numeconcopenhagen-2018/blob/master/README.md).
-* [/binder](/binder/): The folder is used by mybinder.org to setup an interactive version of your repository. For details see this [guide](https://numeconcopenhagen.netlify.com/guides/mybinder/).
-* [/dataproject](/dataproject): The structure is as follows: it contains a jupyter notebook where all the results should be presented. Furthermore, there is a python module named the dataproject where you can write and structure all your code.
-* [/examproject](/examproject): Same structure as above.
-* [/modelproject](/modelproject): Same structure as above.
-* [.gitignore](/.gitignore): A textfile specifying files and folder that will not be uploaded to github, and will not be tracked by git.  
+The project will solve the standard Robinson Crusoe economy by finding the pareto efficient allocation between two goods in order to optimize the utility of the agent. After the model is optimized, the model will be extened by looking at comparative advantages. Instead of just including an extra agent in the model, a completely new model is presented in order to show how the comparative advantage work in general. 
+
+All packages used for the project should be part of the standard anaconda installation.
+
+Happy reading!
